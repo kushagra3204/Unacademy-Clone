@@ -1,0 +1,68 @@
+  export const DummyData = [
+      {
+        img: "https://edge.uacdn.net/static/thumbnail/course/be68717404f44b36bb6220e46ba8222f.png?q=100&w=512",
+        title: "Simple robot in 60 minutes",
+        end: "Ended on Oct 18, 2020",
+        name: "Satish Kumar",
+        cat: "cat11",
+        id: "id11",
+      },
+      {
+        img: "https://edge.uacdn.net/static/thumbnail/course/0a8f59488b194177a3ef264b8856b644.png?q=100&w=512",
+        title: "10 Hacks That Only a Financial Genius Knows",
+        end: "Ended on Oct 18, 2020",
+        name: "Himanshu Arora",
+        cat: "cat12",
+        id: "id12",
+      },
+      {
+        img: "https://edge.uacdn.net/static/thumbnail/course/3da7ea360a884cb98a2910e174ee6003.png?q=100&w=512",
+        title: "10 Commandments of Salesmanship",
+        end: "Ended on Oct 18, 2020",
+        name: "Mihair Koltharkar",
+        cat: "cat13",
+        id: "id13",
+      },
+      {
+        img: "https://edge.uacdn.net/static/thumbnail/course/a6e759f109b547b18f274305548ca828.png?q=100&w=512",
+        title: "10 Cool applications of Python",
+        end: "Ended on Oct 18, 2020",
+        name: "Ishan Sharma",
+        cat: "cat14",
+        id: "id14",
+      },
+  ];
+  export const DummyData2 = [
+      {
+          img: "https://edge.uacdn.net/static/thumbnail/course/be68717404f44b36bb6220e46ba8222f.png?q=100&w=512",
+          title: "Simple robot in 60 minutes",
+          end: "Ended on Oct 18, 2020",
+          name: "Satish Kumar",
+          cat: "cat21",
+          id: "id21",
+      },
+      {
+          img: "https://edge.uacdn.net/static/thumbnail/course/0a8f59488b194177a3ef264b8856b644.png?q=100&w=512",
+          title: "10 Hacks That Only a Financial Genius Knows",
+          end: "Ended on Oct 18, 2020",
+          name: "Himanshu Arora",
+          cat: "cat22",
+          id: "id22",
+      },
+      {
+          img: "https://edge.uacdn.net/static/thumbnail/course/3da7ea360a884cb98a2910e174ee6003.png?q=100&w=512",
+          title: "10 Commandments of Salesmanship",
+          end: "Ended on Oct 18, 2020",
+          name: "Mihair Koltharkar",
+          cat: "cat23",
+          id: "id23",
+      },
+      {
+          img: "https://edge.uacdn.net/static/thumbnail/course/a6e759f109b547b18f274305548ca828.png?q=100&w=512",
+          title: "10 Cool applications of Python",
+          end: "Ended on Oct 18, 2020",
+          name: "Ishan Sharma",
+          cat: "cat24",
+          id: "id24",
+      },
+  ];

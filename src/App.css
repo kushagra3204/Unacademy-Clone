@@ -1,0 +1,42 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #3c4852;
+  -webkit-font-smoothing: antialiased;
+  font-family: AvertaStd, -apple-system, BlinkMacSystemFont, sans-serif !important;
+  overscroll-behavior: none;
+}
+
+.Mainpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navbar {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  width: 10%;
+  height: 40px;
+  border-radius: 7px;
+  border: 1px solid #3c4852;
+  background-color: transparent;
+  font-family: 'Georgia';
+  color: black;
+  cursor: pointer;
+}
+
+.App {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
