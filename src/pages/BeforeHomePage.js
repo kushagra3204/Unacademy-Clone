@@ -4,14 +4,14 @@ import HomeBlock3 from '../components/HomeBlock3'
 import Footer from '../components/Footer'
 import { Link } from 'react-router-dom'
 import LoadingBar from 'react-top-loading-bar'
-import Login from '../components/Login/Login'
+import LoginAndSignUp from '../components/Login/Login_And_Signup'
 import "../App.css"
 
 function BeforeHomePage () {
   const [login,setLogin] = useState(false)
   return (
     <div className='Mainpage'>
-      {login?<Login login={login} setLogin={setLogin} />:null}
+      {login?<LoginAndSignUp login={login} setLogin={setLogin} />:null}
       <BeforeHomePageStyled style={{filter: login?'blur(5px)':'none', position: login?'fixed':null}}>
         <LoadingBar color='#08BD80' height='4px' />
         <div className='header'>
